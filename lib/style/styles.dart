@@ -7,3 +7,4 @@ const TextStyle styleText=TextStyle(
     fontWeight: FontWeight.bold,
     fontSize: 16,
     color: Colors.black);
+
